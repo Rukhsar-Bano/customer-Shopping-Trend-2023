@@ -84,8 +84,8 @@ DAX for calculated columns (Age Group, Age Category, etc.)
 
 ## 📁 Files Included:
 - shopping_trend_proj1.pbix
-- `shop_trend_Dashb1.png`
-- `shop_trend_Dashb2.png`
+- `shop_trend_Dash1.png`
+- `shop_trend_Dash2.png`
 
 💼 Author
 Name: Rukhsar Bano
